@@ -1,0 +1,14 @@
+C:\Users\Noteburg\source\repos\Квестик\Квестик\obj\Debug\net8.0\Квестик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noteburg\source\repos\Квестик\Квестик\obj\Debug\net8.0\Квестик.AssemblyInfoInputs.cache
+C:\Users\Noteburg\source\repos\Квестик\Квестик\obj\Debug\net8.0\Квестик.AssemblyInfo.cs
+C:\Users\Noteburg\source\repos\Квестик\Квестик\obj\Debug\net8.0\Квестик.csproj.CoreCompileInputs.cache
+C:\Users\Noteburg\source\repos\Квестик\Квестик\bin\Debug\net8.0\Квестик.exe
+C:\Users\Noteburg\source\repos\Квестик\Квестик\bin\Debug\net8.0\Квестик.deps.json
+C:\Users\Noteburg\source\repos\Квестик\Квестик\bin\Debug\net8.0\Квестик.runtimeconfig.json
+C:\Users\Noteburg\source\repos\Квестик\Квестик\bin\Debug\net8.0\Квестик.dll
+C:\Users\Noteburg\source\repos\Квестик\Квестик\bin\Debug\net8.0\Квестик.pdb
+C:\Users\Noteburg\source\repos\Квестик\Квестик\obj\Debug\net8.0\Квестик.dll
+C:\Users\Noteburg\source\repos\Квестик\Квестик\obj\Debug\net8.0\refint\Квестик.dll
+C:\Users\Noteburg\source\repos\Квестик\Квестик\obj\Debug\net8.0\Квестик.pdb
+C:\Users\Noteburg\source\repos\Квестик\Квестик\obj\Debug\net8.0\Квестик.genruntimeconfig.cache
+C:\Users\Noteburg\source\repos\Квестик\Квестик\obj\Debug\net8.0\ref\Квестик.dll
